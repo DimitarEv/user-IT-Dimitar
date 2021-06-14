@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="how_to_create_a_new_account_in_steam">
+    <title>How to create a new account in Steam ? </title>
+    <shortdesc>Here im going to show you how to create a new account by using the Steam
+        client.</shortdesc>
+    <body>
+        <p><b>Prerequisites</b> : You need to download  the Steam client first before you can create
+            a new account.Here is the link from where you can dowload it. <xref
+                href="https://store.steampowered.com/" format="html" scope="external"/><ol
+                id="ol_dhc_ts3_5pb">
+                <li>Open you'r steam client that looks like this :  <p><image
+                            href="../Dita_pic/Steam_client.png" id="image_tsn_htx_xpb"/></p></li>
+                <li>Click the "Create a New Account..." button from the Steam login page. <p><image
+                            href="../Dita_pic/Create_a_new_account.png" id="image_cc4_ltx_xpb"
+                    /></p></li>
+                <li> After you click "Create a New Account" then it will show you a window with
+                    information that needs to be filled in order to create a new account.<p><image
+                            href="../Dita_pic/Instructions.png" id="image_bl1_f5x_xpb"
+                            /></p><p><b>Result: </b>After you finish writing down the information
+                        that is needed, the end result should look like this.</p><p><image
+                            href="../Dita_pic/Created_account.png" id="image_idr_lvx_xpb"/></p></li>
+            </ol></p>
+    </body>
+</topic>

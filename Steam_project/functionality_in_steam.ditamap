@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>functionality in STEAM</title>
+    <topicref href="introduction_navigation_topic.dita"/>
+    <topicref href="how_to_create_a_new_account_in_steam.dita"/>
+    <topicref href="how_can_you_use_all_the_functionalities_of_steam_requirements.dita"/>
+    <topicref href="how_to_sent_a_friend_request.dita"/>
+    <topicref href="how_to_search_your_type_of_game.dita"/>
+    <topicref href="how_to_purchase_a_game.dita"/>
+    <topicref href="reference_steam.dita"/>
+    <topicref href="concept_steam.dita"/>
+</map>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="introduction_navigation_topic">
+    <title>Introduction - Navigation Topic</title>
+    <body>
+        <p>
+            <imagemap id="imagemap_zrd_533_5pb">
+                <image href="../F87063.jpg" id="image_ut3_f33_5pb"/>
+                <area>
+                    <shape>rect</shape>
+                    <coords>-3, 102, 376, 308</coords>
+                    <xref href="how_to_create_a_new_account_in_steam.dita" format="dita">Click here
+                        for more details about the functionalitie #1!</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>381, 108, 861, 307</coords>
+                    <xref href="how_can_you_use_all_the_functionalities_of_steam_requirements.dita"
+                        format="dita">Click here for more details about the functionalitie
+                        #2!</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>-2, 308, 476, 463</coords>
+                    <xref href="how_to_sent_a_friend_request.dita" format="dita">Click here for more
+                        details about the functionalitie #3!</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>475, 311, 863, 534</coords>
+                    <xref href="how_to_search_your_type_of_game.dita" format="dita">Click here for
+                        more details about the functionalitie #4!</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>1, 460, 479, 621</coords>
+                    <xref href="how_to_purchase_a_game.dita" format="dita">Click here for more
+                        details about the functionalitie #5!</xref>
+                </area>
+            </imagemap>
+        </p>
+    </body>
+</topic>

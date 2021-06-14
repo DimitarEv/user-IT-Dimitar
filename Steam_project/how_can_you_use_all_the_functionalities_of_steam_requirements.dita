@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="how_can_you_use_all_the_functionalities_of_steam_requirements">
+    <title>How can you use all the functionalities of Steam(requirements) ?</title>
+    <shortdesc>Here im going to show you how to unlock all the functionalities that Steam can offer. </shortdesc>
+    <body>
+        <p><b>Prerequisites :</b> You need to download the Steam client first before you can use
+            it's functionalities. Here is the link from where you can dowload it. <xref
+                href="https://store.steampowered.com/" format="html" scope="external"/></p>
+        <p>You will need to spend at least <b>$5.00 USD</b> within the Steam store.</p>
+        <p>Some examples of purchases that grant access to these features are:</p>
+        <ul id="ul_mlr_kt3_5pb">
+            <li>Adding the equivalent of $5 USD or more to your Steam Wallet.</li>
+            <li>Purchasing game(s) that are equal to $5 USD or more from the Steam store.</li>
+            <li>Adding a Steam Wallet card that is equal to $5 USD or more to your Steam
+                account<p/>Each Steam purchase total will be tracked in USD. If your Steam store's
+                currency isn't in USD, it will be tracked and converted to USD automatically using
+                daily exchange rates.</li>
+        </ul>
+    </body>
+</topic>

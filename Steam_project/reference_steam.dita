@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_steam">
+    <title>Reference - Steam </title>
+    <shortdesc>Here are the websites that I used for information.</shortdesc>
+    <refbody> </refbody>
+    <related-links>
+        <link href="https://store.steampowered.com/" format="html" scope="external"/>
+        <link href="https://en.wikipedia.org/wiki/Steam_(service)" format="html" scope="external"/>
+    </related-links>
+</reference>

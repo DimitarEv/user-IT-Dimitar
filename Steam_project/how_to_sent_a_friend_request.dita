@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="how_to_sent_a_friend_request">
+    <title>How to sent a friend request ?</title>
+    <shortdesc> Here im going to show you how to sent a friend request.</shortdesc>
+    <body>
+        <p><b>Prerequisites :</b> You need to download the Steam client first before you can sent a
+            friend request. Here is the link from where you can dowload it.<xref
+                href="https://store.steampowered.com/" format="html" scope="external"/></p>
+        <ol>
+            <li>Open the <b>Steam</b> client.<p><image href="../Dita_pic/Steam_start.png"
+                        id="image_vkp_zyx_xpb"/></p></li>
+            <li>After you open the <b>Steam</b> client, you will see at the bottom of your right
+                screen the button <b>FRIENDS &amp; CHAT</b>. Click it.<p><image
+                        href="../Dita_pic/Starter_firend_screen.png" id="image_hjs_y1y_xpb"/></p>
+            </li>
+            <li>Then it will open a new window.After that you can click the button <b>"Add a
+                    friend"</b>.<p><image href="../Dita_pic/friend_list_add.png"
+                        id="image_lys_xby_xpb"/></p></li>
+            <li>After you click <b>"Add a friend "</b> button, it will appear a new tab with your
+                    <b>code </b>and a space to write you'r friends <b>code </b>to add them.
+                        <p><image href="../Dita_pic/Friend_Code_circle.png" id="image_oqc_f5z_xpb"
+                    /></p></li>
+            <li>After you write down you'r friend's code then press the button <b>"Enter" </b>from
+                your keyboard. </li>
+        </ol>
+        <p><b>Result:</b>They'll get a notification that you've sent a friend request. When they
+            accept the invite, you'll be added to each other's Friends List.</p>
+    </body>
+</topic>

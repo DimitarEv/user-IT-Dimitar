@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="how_to_purchase_a_game">
+    <title>How to purchase a game ?</title>
+    <shortdesc> Here im going to show you how to purchase you'r favorite games.</shortdesc>
+    <body>
+        <p><b>Prerequisites :</b> You need to download the Steam client first before you can
+            purchase you'r favorite game. Here is the link from where you can dowload it.<xref
+                href="https://store.steampowered.com/" format="html" scope="external"/></p>
+        <p>
+            <ol id="ol_udn_rdh_wpb">
+                <li>Start you'r <b>Steam </b>application from you'r executable file.<p><image
+                            href="../Dita_pic/Steam_client.png" id="image_sqj_5d1_ypb"/></p></li>
+                <li>Then go to the <b>"search tab"</b> and add the title of the game that you want
+                    to search.<p><image href="../Dita_pic/Steam_start_search_game.png"
+                            id="image_xq4_121_ypb"/></p></li>
+                <li>After you add you'r game title It will show you the result of your
+                            search.<p><image href="../Dita_pic/Gmae_result.png"
+                            id="image_wwv_cf1_ypb"/></p></li>
+                <li>Then you can browse and click the "<b>product<b>"</b></b> that you wish to
+                    inspect.It will show you a detail screen of the game. <p><image
+                            href="../Dita_pic/game_inspection.png" id="image_w4k_kf1_ypb"/></p></li>
+                <li> After you decide that you want to purchase this <b>"product" </b>you can click
+                    the <b>"Add to Cart" </b>button.<p><image
+                            href="../Dita_pic/game_inspection_Add_to_cart.png"
+                            id="image_yqd_vf1_ypb"/></p></li>
+                <li>Then it will ask you if you'r purchasing it for <b>"youtself"</b> or for a
+                        <b>"friend"</b><p><image href="../Dita_pic/yourself_or_friend.png"
+                            id="image_ag3_xf1_ypb"/></p></li>
+                <li>After you choose one of thoese options and then it will show you the <b>"payment
+                        information"</b>.<p><image href="../Dita_pic/payment_information.png"
+                            id="image_qml_xg1_ypb"/></p></li>
+                <li>And finally after you fill the information needed, click the <b>"Continue"
+                    </b>button to complete the purchase.<p><image
+                            href="../Dita_pic/payment_information_coplete.png"
+                            id="image_i2d_bh1_ypb"/></p><p><b>Result : </b>After you completed all
+                        the steps, the purchase should be complete.</p></li>
+            </ol>
+        </p>
+    </body>
+</topic>

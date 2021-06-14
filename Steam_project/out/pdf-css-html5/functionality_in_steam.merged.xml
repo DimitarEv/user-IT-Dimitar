@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/D:/Documentation-part-2/Oxygen XML Author 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Documentation-part-2/Oxygen XML Author 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Documentation-part-2/Oxygen XML Author 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Documentation-part-2/Oxygen%20XML%20Author%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Documentation-part-2/Oxygen%20XML%20Author%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/UserPC/Desktop/Steam_project/functionality_in_steam.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">functionality in STEAM</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">functionality in STEAM</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="introduction_navigation_topic"><resourceid appid="introduction_navigation_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Introduction - Navigation Topic</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="how_to_create_a_new_account_in_steam"><resourceid appid="how_to_create_a_new_account_in_steam" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">How to create a new account in Steam ? </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here im going to show you how to create a new account by using the Steam         client.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="how_can_you_use_all_the_functionalities_of_steam_requirements"><resourceid appid="how_can_you_use_all_the_functionalities_of_steam_requirements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">How can you use all the functionalities of Steam(requirements) ?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here im going to show you how to unlock all the functionalities that Steam can offer. </shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="how_to_sent_a_friend_request"><resourceid appid="how_to_sent_a_friend_request" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">How to sent a friend request ?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> Here im going to show you how to sent a friend request.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="how_to_search_your_type_of_game"><resourceid appid="how_to_search_your_type_of_game" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">How to search your type of game ?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here im going to show you how to search you'r type of game.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="how_to_purchase_a_game"><resourceid appid="how_to_purchase_a_game" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">How to purchase a game ?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> Here im going to show you how to purchase you'r favorite games.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference_steam"><resourceid appid="reference_steam" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Reference - Steam </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here are the websites that I used for information.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_steam"><resourceid appid="concept_steam" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Concept - Steam </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="introduction_navigation_topic" oid="introduction_navigation_topic" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Introduction - Navigation Topic</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">
+            <imagemap class="+ topic/fig ut-d/imagemap " id="unique_1_Connect_42_imagemap_zrd_533_5pb" nd:nd-id="imagemap_zrd_533_5pb"><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/F87063.jpg" id="unique_1_Connect_42_image_ut3_f33_5pb" nd:nd-id="image_ut3_f33_5pb" placement="inline"/><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">-3, 102, 376, 308</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_2" type="topic"><?ditaot usertext?>Click here
+                        for more details about the functionalitie #1!<?ditaot genshortdesc?><desc class="- topic/desc ">Here im going to show you how to create a new account by using the Steam         client.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">381, 108, 861, 307</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_3" type="topic"><?ditaot usertext?>Click here for more details about the functionalitie
+                        #2!<?ditaot genshortdesc?><desc class="- topic/desc ">Here im going to show you how to unlock all the functionalities that Steam can offer. </desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">-2, 308, 476, 463</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_4" type="topic"><?ditaot usertext?>Click here for more
+                        details about the functionalitie #3!<?ditaot genshortdesc?><desc class="- topic/desc "> Here im going to show you how to sent a friend request.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">475, 311, 863, 534</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_5" type="topic"><?ditaot usertext?>Click here for
+                        more details about the functionalitie #4!<?ditaot genshortdesc?><desc class="- topic/desc ">Here im going to show you how to search you'r type of game.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">1, 460, 479, 621</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_6" type="topic"><?ditaot usertext?>Click here for more
+                        details about the functionalitie #5!<?ditaot genshortdesc?><desc class="- topic/desc "> Here im going to show you how to purchase you'r favorite games.</desc></xref>
+                </area></imagemap>
+        </p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="how_to_create_a_new_account_in_steam" oid="how_to_create_a_new_account_in_steam" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to create a new account in Steam ? </ph></title>
+    <shortdesc class="- topic/shortdesc ">Here im going to show you how to create a new account by using the Steam
+        client.</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Prerequisites</b> : You need to download  the Steam client first before you can create
+            a new account.Here is the link from where you can dowload it. <xref class="- topic/xref " format="html" href="https://store.steampowered.com/" scope="external"/><ol class="- topic/ol " id="unique_2_Connect_42_ol_dhc_ts3_5pb" nd:nd-id="ol_dhc_ts3_5pb">
+                <li class="- topic/li ">Open you'r steam client that looks like this :  <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Steam_client.png" id="unique_2_Connect_42_image_tsn_htx_xpb" nd:nd-id="image_tsn_htx_xpb" placement="inline"/></p></li>
+                <li class="- topic/li ">Click the "Create a New Account..." button from the Steam login page. <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Create_a_new_account.png" id="unique_2_Connect_42_image_cc4_ltx_xpb" nd:nd-id="image_cc4_ltx_xpb" placement="inline"/></p></li>
+                <li class="- topic/li "> After you click "Create a New Account" then it will show you a window with
+                    information that needs to be filled in order to create a new account.<p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Instructions.png" id="unique_2_Connect_42_image_bl1_f5x_xpb" nd:nd-id="image_bl1_f5x_xpb" placement="inline"/></p><p class="- topic/p "><b class="+ topic/ph hi-d/b ">Result: </b>After you finish writing down the information
+                        that is needed, the end result should look like this.</p><p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Created_account.png" id="unique_2_Connect_42_image_idr_lvx_xpb" nd:nd-id="image_idr_lvx_xpb" placement="inline"/></p></li>
+            </ol></p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="how_can_you_use_all_the_functionalities_of_steam_requirements" oid="how_can_you_use_all_the_functionalities_of_steam_requirements" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How can you use all the functionalities of Steam(requirements) ?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here im going to show you how to unlock all the functionalities that Steam can offer. </shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Prerequisites :</b> You need to download the Steam client first before you can use
+            it's functionalities. Here is the link from where you can dowload it. <xref class="- topic/xref " format="html" href="https://store.steampowered.com/" scope="external"/></p>
+        <p class="- topic/p ">You will need to spend at least <b class="+ topic/ph hi-d/b ">$5.00 USD</b> within the Steam store.</p>
+        <p class="- topic/p ">Some examples of purchases that grant access to these features are:</p>
+        <ul class="- topic/ul " id="unique_3_Connect_42_ul_mlr_kt3_5pb" nd:nd-id="ul_mlr_kt3_5pb">
+            <li class="- topic/li ">Adding the equivalent of $5 USD or more to your Steam Wallet.</li>
+            <li class="- topic/li ">Purchasing game(s) that are equal to $5 USD or more from the Steam store.</li>
+            <li class="- topic/li ">Adding a Steam Wallet card that is equal to $5 USD or more to your Steam
+                account<p class="- topic/p "/>Each Steam purchase total will be tracked in USD. If your Steam store's
+                currency isn't in USD, it will be tracked and converted to USD automatically using
+                daily exchange rates.</li>
+        </ul>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="how_to_sent_a_friend_request" oid="how_to_sent_a_friend_request" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to sent a friend request ?</ph></title>
+    <shortdesc class="- topic/shortdesc "> Here im going to show you how to sent a friend request.</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Prerequisites :</b> You need to download the Steam client first before you can sent a
+            friend request. Here is the link from where you can dowload it.<xref class="- topic/xref " format="html" href="https://store.steampowered.com/" scope="external"/></p>
+        <ol class="- topic/ol ">
+            <li class="- topic/li ">Open the <b class="+ topic/ph hi-d/b ">Steam</b> client.<p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Steam_start.png" id="unique_4_Connect_42_image_vkp_zyx_xpb" nd:nd-id="image_vkp_zyx_xpb" placement="inline"/></p></li>
+            <li class="- topic/li ">After you open the <b class="+ topic/ph hi-d/b ">Steam</b> client, you will see at the bottom of your right
+                screen the button <b class="+ topic/ph hi-d/b ">FRIENDS &amp; CHAT</b>. Click it.<p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Starter_firend_screen.png" id="unique_4_Connect_42_image_hjs_y1y_xpb" nd:nd-id="image_hjs_y1y_xpb" placement="inline"/></p>
+            </li>
+            <li class="- topic/li ">Then it will open a new window.After that you can click the button <b class="+ topic/ph hi-d/b ">"Add a
+                    friend"</b>.<p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/friend_list_add.png" id="unique_4_Connect_42_image_lys_xby_xpb" nd:nd-id="image_lys_xby_xpb" placement="inline"/></p></li>
+            <li class="- topic/li ">After you click <b class="+ topic/ph hi-d/b ">"Add a friend "</b> button, it will appear a new tab with your
+                    <b class="+ topic/ph hi-d/b ">code </b>and a space to write you'r friends <b class="+ topic/ph hi-d/b ">code </b>to add them.
+                        <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Friend_Code_circle.png" id="unique_4_Connect_42_image_oqc_f5z_xpb" nd:nd-id="image_oqc_f5z_xpb" placement="inline"/></p></li>
+            <li class="- topic/li ">After you write down you'r friend's code then press the button <b class="+ topic/ph hi-d/b ">"Enter" </b>from
+                your keyboard. </li>
+        </ol>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Result:</b>They'll get a notification that you've sent a friend request. When they
+            accept the invite, you'll be added to each other's Friends List.</p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="how_to_search_your_type_of_game" oid="how_to_search_your_type_of_game" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to search your type of game ?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here im going to show you how to search you'r type of game.</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Prerequisites :</b> You need to download the Steam client first before you can search
+            for you'r type of game. Here is the link from where you can dowload it.<xref class="- topic/xref " format="html" href="https://store.steampowered.com/" scope="external"/></p>
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_5_Connect_42_ol_c2z_2v3_5pb" nd:nd-id="ol_c2z_2v3_5pb">
+                <li class="- topic/li ">Open your <b class="+ topic/ph hi-d/b ">Steam</b> application <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Steam_start.png" id="unique_5_Connect_42_image_l5m_rvz_xpb" nd:nd-id="image_l5m_rvz_xpb" placement="inline"/></p></li>
+                <li class="- topic/li ">Then you click the button <b class="+ topic/ph hi-d/b ">"Categories"</b>. Its location is next to <b class="+ topic/ph hi-d/b ">"New
+                        &amp; Noteworthy"</b> and <b class="+ topic/ph hi-d/b ">"Points Shop"</b>
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Categories.png" id="unique_5_Connect_42_image_fr5_511_ypb" nd:nd-id="image_fr5_511_ypb" placement="inline"/></p></li>
+                <li class="- topic/li ">After you write down you'r friend's <b class="+ topic/ph hi-d/b ">code</b> then press the button <b class="+ topic/ph hi-d/b ">"Enter"
+                    </b>from your keyboard. <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Result:  </b><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/game_inspection.png" id="unique_5_Connect_42_image_iyc_qc1_ypb" nd:nd-id="image_iyc_qc1_ypb" placement="inline"/></p></li>
+            </ol>
+        </p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="how_to_purchase_a_game" oid="how_to_purchase_a_game" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to purchase a game ?</ph></title>
+    <shortdesc class="- topic/shortdesc "> Here im going to show you how to purchase you'r favorite games.</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Prerequisites :</b> You need to download the Steam client first before you can
+            purchase you'r favorite game. Here is the link from where you can dowload it.<xref class="- topic/xref " format="html" href="https://store.steampowered.com/" scope="external"/></p>
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_6_Connect_42_ol_udn_rdh_wpb" nd:nd-id="ol_udn_rdh_wpb">
+                <li class="- topic/li ">Start you'r <b class="+ topic/ph hi-d/b ">Steam </b>application from you'r executable file.<p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Steam_client.png" id="unique_6_Connect_42_image_sqj_5d1_ypb" nd:nd-id="image_sqj_5d1_ypb" placement="inline"/></p></li>
+                <li class="- topic/li ">Then go to the <b class="+ topic/ph hi-d/b ">"search tab"</b> and add the title of the game that you want
+                    to search.<p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Steam_start_search_game.png" id="unique_6_Connect_42_image_xq4_121_ypb" nd:nd-id="image_xq4_121_ypb" placement="inline"/></p></li>
+                <li class="- topic/li ">After you add you'r game title It will show you the result of your
+                            search.<p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/Gmae_result.png" id="unique_6_Connect_42_image_wwv_cf1_ypb" nd:nd-id="image_wwv_cf1_ypb" placement="inline"/></p></li>
+                <li class="- topic/li ">Then you can browse and click the "<b class="+ topic/ph hi-d/b ">product<b class="+ topic/ph hi-d/b ">"</b></b> that you wish to
+                    inspect.It will show you a detail screen of the game. <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/game_inspection.png" id="unique_6_Connect_42_image_w4k_kf1_ypb" nd:nd-id="image_w4k_kf1_ypb" placement="inline"/></p></li>
+                <li class="- topic/li "> After you decide that you want to purchase this <b class="+ topic/ph hi-d/b ">"product" </b>you can click
+                    the <b class="+ topic/ph hi-d/b ">"Add to Cart" </b>button.<p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/game_inspection_Add_to_cart.png" id="unique_6_Connect_42_image_yqd_vf1_ypb" nd:nd-id="image_yqd_vf1_ypb" placement="inline"/></p></li>
+                <li class="- topic/li ">Then it will ask you if you'r purchasing it for <b class="+ topic/ph hi-d/b ">"youtself"</b> or for a
+                        <b class="+ topic/ph hi-d/b ">"friend"</b><p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/yourself_or_friend.png" id="unique_6_Connect_42_image_ag3_xf1_ypb" nd:nd-id="image_ag3_xf1_ypb" placement="inline"/></p></li>
+                <li class="- topic/li ">After you choose one of thoese options and then it will show you the <b class="+ topic/ph hi-d/b ">"payment
+                        information"</b>.<p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/payment_information.png" id="unique_6_Connect_42_image_qml_xg1_ypb" nd:nd-id="image_qml_xg1_ypb" placement="inline"/></p></li>
+                <li class="- topic/li ">And finally after you fill the information needed, click the <b class="+ topic/ph hi-d/b ">"Continue"
+                    </b>button to complete the purchase.<p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/UserPC/Desktop/Dita_pic/payment_information_coplete.png" id="unique_6_Connect_42_image_i2d_bh1_ypb" nd:nd-id="image_i2d_bh1_ypb" placement="inline"/></p><p class="- topic/p "><b class="+ topic/ph hi-d/b ">Result : </b>After you completed all
+                        the steps, the purchase should be complete.</p></li>
+            </ol>
+        </p>
+    </body>
+</topic><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="reference_steam" oid="reference_steam" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Reference - Steam </ph></title>
+    <shortdesc class="- topic/shortdesc ">Here are the websites that I used for information.</shortdesc>
+    <refbody class="- topic/body        reference/refbody "> </refbody>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " format="html" href="https://store.steampowered.com/" scope="external"/>
+        <link class="- topic/link " format="html" href="https://en.wikipedia.org/wiki/Steam_(service)" scope="external"/>
+    </related-links>
+</reference><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="concept_steam" oid="concept_steam" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Concept - Steam </ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Steam is a video game digital distribution service by Valve. It was launched as a
+            standalone software client in September 2003 as a way for Valve to provide automatic
+            updates for their games, and expanded to include games from third-party publishers.
+            Steam has also expanded into an online web-based and mobile digital storefront. Steam
+            offers digital rights management (DRM), server hosting, video streaming, and social
+            networking services. It also provides the user with installation and automatic updating
+            of games, and community features such as friends lists and groups, cloud storage, and
+            in-game voice and chat functionality.</p>
+        <p class="- topic/p ">The software provides a freely available application programming interface (API) called
+            Steamworks, which developers can use to integrate many of Steam's functions into their
+            products, including in-game achievements, microtransactions, and support for
+            user-created content through Steam Workshop. Though initially developed for use on
+            Microsoft Windows operating systems, versions for macOS and Linux were later released.
+            Mobile apps were also released for iOS, Android, and Windows Phone in the 2010s. The
+            platform also offers a small selection of other content, including design software,
+            hardware, game soundtracks, anime, and films. </p>
+    </conbody>
+</concept></map>

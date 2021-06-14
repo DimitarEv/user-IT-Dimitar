@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="how_to_search_your_type_of_game">
+    <title>How to search your type of game ?</title>
+    <shortdesc>Here im going to show you how to search you'r type of game.</shortdesc>
+    <body>
+        <p><b>Prerequisites :</b> You need to download the Steam client first before you can search
+            for you'r type of game. Here is the link from where you can dowload it.<xref
+                href="https://store.steampowered.com/" format="html" scope="external"/></p>
+        <p>
+            <ol id="ol_c2z_2v3_5pb">
+                <li>Open your <b>Steam</b> application <p><image href="../Dita_pic/Steam_start.png"
+                            id="image_l5m_rvz_xpb"/></p></li>
+                <li>Then you click the button <b>"Categories"</b>. Its location is next to <b>"New
+                        &amp; Noteworthy"</b> and <b>"Points Shop"</b>
+                    <p><image href="../Dita_pic/Categories.png" id="image_fr5_511_ypb"/></p></li>
+                <li>After you write down you'r friend's <b>code</b> then press the button <b>"Enter"
+                    </b>from your keyboard. <p><b>Result:  </b><image
+                            href="../Dita_pic/game_inspection.png" id="image_iyc_qc1_ypb"/></p></li>
+            </ol>
+        </p>
+    </body>
+</topic>
